@@ -1,16 +1,27 @@
-## Hi there 👋
+# Who am i ?
+Self taught front end developer currently learning **system administration** and **Dev Ops** tools.
+Neovim and Tmux adept
+I'm curious and prone to automate various process
 
-<!--
-**Kirwiisp/kirwiisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## My projects so far
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### <u>1 - Vue-TS container</u> :
+**Description** : A devcontainer set to start a Vue-TS project without. <br>
+**What I learned** : **Shell** scripting and specificities of **Docker volumes**.
+
+
+### <u>2 - Dev_setup</u> :
+**Description** : A repo to allow me to replicate easily my dev environment inside various VM or Containers.<br>
+**What I learned** : **Neovim configuration** and **Building from source** process.
+
+
+### <u>3 - Feed_your_devs</u> :
+**Description** : A simple discord bot project aiming to automate discords messages.<br>
+**What I learned** : **Python** programming and **automatisation of daily tasks**.
+
+
+### <u>4 - FBL Parser</u> :
+**Description** : A parser for FoundryVTT.<br>
+**What I learned** : It taught me **asynchronous process** and how to use **Regex**
