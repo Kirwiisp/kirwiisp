@@ -3,6 +3,8 @@ Self taught front end developer currently learning **system administration** and
 Neovim and Tmux adept
 I'm curious and prone to automate various process
 
+## My current playground
+You can find from now on, my current playground, where i test my new skills of **Dev Ops** here : [My playground](https://github.com/devops-project-playground)
 
 ## My projects so far
 
