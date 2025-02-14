@@ -4,26 +4,29 @@ Neovim and Tmux adept
 I'm curious and prone to automate various process
 
 ## My current playground
-You can find from now on, my current playground, where i test my new skills of **Dev Ops** here : [My playground](https://github.com/devops-project-playground)
+You can find from most of my current work on this [organization](https://github.com/devops-project-playground), where i test my new **Dev Ops** skills 
 
 ## My projects so far
 
+### <u>1 - Ansible playbook for setting up new infra : 
+**Description** : Multiple playbooks for changing the admin user, setting default ports, installing various packages, and starting a **K8S cluster**. <br>
+**What I Learned and practice** : Handling **user rights** and the necessary steps for **server configuration**, mandatory **K8S components**, and configuring a VPC for a cluster.
 
-### <u>1 - Vue-TS container</u> :
+
+### <u>2 - Ansible playbook for runner deployment : 
+**Description** : Playbook to join arm64 runners on a new github repository. <br>
+**What I Learned and practice** : Ansibles modules and arguments usage with ansible-playbook.
+
+### <u>3 - Vue-TS container</u> :
 **Description** : A devcontainer set to start a Vue-TS project without. <br>
 **What I learned** : **Shell** scripting and specificities of **Docker volumes**.
 
 
-### <u>2 - Dev_setup</u> :
+### <u>4 - Dev_setup</u> :
 **Description** : A repo to allow me to replicate easily my dev environment inside various VM or Containers.<br>
 **What I learned** : **Neovim configuration** and **Building from source** process.
 
 
-### <u>3 - Feed_your_devs</u> :
-**Description** : A simple discord bot project aiming to automate discords messages.<br>
-**What I learned** : **Python** programming and **automatisation of daily tasks**.
-
-
-### <u>4 - FBL Parser</u> :
+### <u>5 - FBL Parser</u> :
 **Description** : A parser for FoundryVTT.<br>
 **What I learned** : It taught me **asynchronous process** and how to use **Regex**
