@@ -25,12 +25,6 @@ You can find from most of my current work on this [organization](https://github.
 **Description** : A devcontainer set to start a Vue-TS project without. <br>
 **What I learned** : **Shell** scripting and specificities of **Docker volumes**.
 
-
-### <u>5 - [Dev_setup](https://github.com/Kirwiisp/dev_setup)</u> :
-**Description** : A repo to allow me to replicate easily my dev environment inside various VM or Containers.<br>
-**What I learned** : **Neovim configuration** and **Building from source** process.
-
-
-### <u>6 - [FBL Parser](https://github.com/Kirwiisp/Parser-FBL-servants-of-memory)</u> :
+### <u>5 - [FBL Parser](https://github.com/Kirwiisp/Parser-FBL-servants-of-memory)</u> :
 **Description** : A parser for FoundryVTT.<br>
 **What I learned** : It taught me **asynchronous process** and how to use **Regex**
